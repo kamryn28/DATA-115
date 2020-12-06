@@ -12,9 +12,11 @@ There was not much processing that needed to go into preparing the data for anal
 ## Visualization
 
 All visualizations created were bar graphs due to the data containing all categorical values except the percentage column.  To start, I created a bar graph of the percentage of all Genetically Engineered crops planted by Year.
+
 <img width="260" alt="Year" src="https://user-images.githubusercontent.com/71746406/101296943-2f8bf900-37db-11eb-80c7-7cff5e13a110.png">
 
 I also graphed the percentage of GMO crops by the state instead of the year, to see if there was any states that stood out.
+
 <img width="263" alt="State" src="https://user-images.githubusercontent.com/71746406/101296965-49c5d700-37db-11eb-9a2b-9512799358f4.png">
 
 ## Analysis
