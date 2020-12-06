@@ -10,10 +10,10 @@ The USDA collected data from 2000-2020 about the use of insect-resistant and her
 
 ## Visualization
 
-<img src = "https://raw.githubusercontent.com/kamryn28/DATA-115/Year.png">
-<img src = "https://raw.githubusercontent.com/kamryn28/DATA-115/State.png">
-<img src = "https://raw.githubusercontent.com/kamryn28/DATA-115/Year_by_Crop.png">
-<img src = "https://raw.githubusercontent.com/kamryn28/DATA-115/Year_by_Variety.png">
+<img src = "https://github.com/kamryn28/DATA-115/Year.png">
+<img src = "https://github.com/kamryn28/DATA-115/State.png">
+<img src = "https://github.com/kamryn28/DATA-115/Year_by_Crop.png">
+<img src = "https://github.com/kamryn28/DATA-115/Year_by_Variety.png">
 
 ## Analysis
 
