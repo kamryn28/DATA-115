@@ -14,9 +14,7 @@ There was not much processing that needed to go into preparing the data for anal
 All visualizations created were bar graphs due to the data containing all categorical values except the percentage column.  To start, I created a bar graph of the percentage of all Genetically Engineered crops planted by Year.  The graph displays that when viewing all varieties and all species (corn, soybean, cotton), the amount of use increased from 2000 to 2005 but has generally remained constant in the years after 2005.  This visualization displays that there was an increase in the planting of GMO crops in regards to these three most common crops.
 I also graphed the percentage of GMO crops by the state instead of the year, to see if there was any states that stood out.  The graph showed that Ohio and California have less GMO crops planted out of the three cultivars being analyzed, while Georgia and Missouri appear to have the most.
 
-<img width="383" alt="Year_by_Crop" src="https://user-images.githubusercontent.com/71746406/101296954-3a468e00-37db-11eb-8771-736aa610c273.png">
-
-<img width="378" alt="Year_by_Variety" src="https://user-images.githubusercontent.com/71746406/101296958-403c6f00-37db-11eb-869a-4baef637d7a9.png">
+<img width="383" alt="Year_by_Crop" src="https://user-images.githubusercontent.com/71746406/101296954-3a468e00-37db-11eb-8771-736aa610c273.png"> <img width="378" alt="Year_by_Variety" src="https://user-images.githubusercontent.com/71746406/101296958-403c6f00-37db-11eb-869a-4baef637d7a9.png">
 
 ## Analysis
 
