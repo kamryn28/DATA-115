@@ -19,6 +19,7 @@ As displayed in the second graph, I also graphed the percentage of GMO crops by 
 
 ## Analysis
 
+To further analyze the bar graphs above, I graphed them as boxplots.  This way I was able to identify outliers and understand the distribution of the data represented in the bar graph visuals.  We are able to see Tukey's 5 number summary as a visual.  In the first graph it is clear there are outliers in the soybean cultivar.  In the second graph it is apparent that outliers exist in the herbicide-tolerant varieties as well.  These two graphs are also where the most increase of percentage planted overtime is demonstrated.  The outliers were not removed because they are significant in portraying the change in the adoption of the species or variety of crop overtime.
 
 <img width="327" alt="boxplot_crop" src="https://user-images.githubusercontent.com/71746406/101310493-de442f80-3803-11eb-992b-cb6fde5484cc.png"> <img width="341" alt="boxplot_variety" src="https://user-images.githubusercontent.com/71746406/101310510-e7cd9780-3803-11eb-94b8-be2a7bab53f3.png">
 
