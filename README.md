@@ -21,7 +21,11 @@ I also graphed the percentage of GMO crops by the state instead of the year, to 
 
 ## Analysis
 
+In order to further understand what was going on in the previous graphs, I broke down the genetically engineered crops by year graph into three graphs separated by the species of crop planted.  You can see in the graph below the differences in planting of specific crops.
+
 <img width="383" alt="Year_by_Crop" src="https://user-images.githubusercontent.com/71746406/101296954-3a468e00-37db-11eb-8771-736aa610c273.png">
+
+Along with that, I broke down the genetically engineered crops by year graph again into 
 
 <img width="378" alt="Year_by_Variety" src="https://user-images.githubusercontent.com/71746406/101296958-403c6f00-37db-11eb-869a-4baef637d7a9.png">
 
