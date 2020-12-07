@@ -24,8 +24,6 @@ In order to further understand what was going on in the previous graphs, I broke
 
 Along with that, I broke down the genetically engineered crops by year graph again into 
 
-<img width="327" alt="boxplot_crop" src="https://user-images.githubusercontent.com/71746406/101310493-de442f80-3803-11eb-992b-cb6fde5484cc.png">
-
-<img width="341" alt="boxplot_variety" src="https://user-images.githubusercontent.com/71746406/101310510-e7cd9780-3803-11eb-94b8-be2a7bab53f3.png">
+<img width="327" alt="boxplot_crop" src="https://user-images.githubusercontent.com/71746406/101310493-de442f80-3803-11eb-992b-cb6fde5484cc.png"> <img width="341" alt="boxplot_variety" src="https://user-images.githubusercontent.com/71746406/101310510-e7cd9780-3803-11eb-94b8-be2a7bab53f3.png">
 
 ## Descriptions of Codes and Materials
