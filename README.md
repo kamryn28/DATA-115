@@ -11,7 +11,8 @@ There was not much processing that needed to go into preparing the data for anal
 
 ## Visualization
 
-All visualizations created were bar graphs due to the data containing all categorical values except the percentage column.  To start, I created bar graphs of the percentage of Genetically Engineered crops planted by year separated by species of the crop, displayed in the first image. These graphs clearly show that the amount of GMO use increases from 2000-2005 then remains relatively constant in the 15 years following.
+All visualizations created were bar graphs due to the data containing all categorical values except the percentage column.  To start, I created bar graphs of the percentage of Genetically Engineered crops planted by year separated by species of the crop, displayed in the first image. These graphs clearly show that the amount of GMO use increases from 2000-2005 then remains relatively constant in the 15 years following for each species of crop.
+
 As displayed in the second graph, I also graphed the percentage of GMO crops by the variety of the GMO. From this graph it provides the ability to distinguish between the types of GMO's used.  It is clear that insect-resistant cultivars have been used at a decently constant rate from 2000-2020.  The stacked gene varieties increased slightly every year, going from less than 5% in 2000 then continuing up to a peak of 80% in the last 5 years.  Herbicide tolerant cultivar usage was low in 2000 then increases until 2005 where it then remains constant for the remaining years.  When combining all of the varieties it appears the use has remained relatively constant throughout all years displayed.
 
 <img width="383" alt="Year_by_Crop" src="https://user-images.githubusercontent.com/71746406/101296954-3a468e00-37db-11eb-8771-736aa610c273.png"> <img width="378" alt="Year_by_Variety" src="https://user-images.githubusercontent.com/71746406/101296958-403c6f00-37db-11eb-869a-4baef637d7a9.png">
