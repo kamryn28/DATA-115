@@ -11,13 +11,15 @@ There was not much processing that needed to go into preparing the data for anal
 
 ## Visualization
 
-All visualizations created were bar graphs due to the data containing all categorical values except the percentage column.  To start, I created bar graphs of the percentage of Genetically Engineered crops planted by year separated by species of the crop, displayed in the first image.
-As shown in the second graph, I also graphed the percentage of GMO crops by the variety of the GMO.  
+All visualizations created were bar graphs due to the data containing all categorical values except the percentage column.  To start, I created bar graphs of the percentage of Genetically Engineered crops planted by year separated by species of the crop, displayed in the first image. These graphs clearly show that the amount of GMO use increases from 2000-2005 then remains relatively constant in the 15 years following.
+As displayed in the second graph, I also graphed the percentage of GMO crops by the variety of the GMO. From this graph it provides the ability to distinguish between the types of GMO's used.  It is clear that insect-resistant cultivars have been used at a decently constant rate from 2000-2020.  The stacked gene varieties increased slightly every year, going from less than 5% in 2000 then continuing up to a peak of 80% in the last 5 years.  Herbicide tolerant cultivar usage was low in 2000 then increases until 2005 where it then remains constant for the remaining years.  When combining all of the varieties it appears the use has remained relatively constant throughout all years displayed.
 
 <img width="383" alt="Year_by_Crop" src="https://user-images.githubusercontent.com/71746406/101296954-3a468e00-37db-11eb-8771-736aa610c273.png"> <img width="378" alt="Year_by_Variety" src="https://user-images.githubusercontent.com/71746406/101296958-403c6f00-37db-11eb-869a-4baef637d7a9.png">
 
 ## Analysis
 
+
 <img width="327" alt="boxplot_crop" src="https://user-images.githubusercontent.com/71746406/101310493-de442f80-3803-11eb-992b-cb6fde5484cc.png"> <img width="341" alt="boxplot_variety" src="https://user-images.githubusercontent.com/71746406/101310510-e7cd9780-3803-11eb-94b8-be2a7bab53f3.png">
 
 ## Descriptions of Codes and Materials
+The raw data that was downloaded from the <a href="https://www.usda.gov/content/usda-open-data-catalog">USDA Open Data Catalog</a> is uploaded in .csv form as alltablesGEcrops.  The notebooks created to complete processing of the data and producing plots are uploaded as PP1.ipynb, PP2.ipynb and PP3.ipynb,
